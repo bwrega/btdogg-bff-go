@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	. "github.com/bwrega/btdogg-bff-go/internal/server"
+)
 
 func main() {
-	fmt.Println("Hello World!")
+	HttpServer{PortNumber: 2599}.Start()
 }
