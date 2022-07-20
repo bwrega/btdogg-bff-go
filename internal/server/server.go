@@ -24,8 +24,8 @@ func (s HttpServer) getDetails(c *gin.Context) {
 	torrentHash := details.TorrentHash(c.Param("torrentHash"))
 	torrentDetails := s.DetailsService.GetDetails(torrentHash)
 	if torrentDetails == nil {
-		c.String(http.StatusNotFound, "Torrent with id " + string(torrentHash) + "not found")
+		c.String(http.StatusNotFound, "Torrent with id " + string(torrentHash) + " not found")
 	} else {
-		c.String(http.StatusOK, string(torrentHash))
+		c.JSON(http.StatusOK, torrentDetails)
 	}
 }
