@@ -1,0 +1,1094 @@
+[
+  {
+    "_id": "858C4422D6CD67E00504B19679FCE0389C871D52",
+    "totalSize": 274384463,
+    "data": [
+      {
+        "name": "CD1",
+        "contents": [
+          {
+            "name": "01 Дорожка 1.mp3",
+            "size": 10807004
+          },
+          {
+            "name": "02 Дорожка 2.mp3",
+            "size": 3501092
+          },
+          {
+            "name": "03 Дорожка 3.mp3",
+            "size": 4755980
+          },
+          {
+            "name": "04 Дорожка 4.mp3",
+            "size": 3855008
+          },
+          {
+            "name": "05 Дорожка 5.mp3",
+            "size": 10393580
+          },
+          {
+            "name": "06 Дорожка 6.mp3",
+            "size": 3171188
+          },
+          {
+            "name": "07 Дорожка 7.mp3",
+            "size": 6620564
+          },
+          {
+            "name": "08 Дорожка 8.mp3",
+            "size": 5833388
+          },
+          {
+            "name": "09 Дорожка 9.mp3",
+            "size": 2924804
+          },
+          {
+            "name": "10 Дорожка 10.mp3",
+            "size": 4411460
+          },
+          {
+            "name": "11 Дорожка 11.mp3",
+            "size": 6256208
+          },
+          {
+            "name": "12 Дорожка 12.mp3",
+            "size": 6804308
+          },
+          {
+            "name": "13 Дорожка 13.mp3",
+            "size": 5773880
+          },
+          {
+            "name": "14 Дорожка 14.mp3",
+            "size": 10635788
+          },
+          {
+            "name": "15 Дорожка 15.mp3",
+            "size": 4268432
+          },
+          {
+            "name": "16 Дорожка 16.mp3",
+            "size": 2220104
+          },
+          {
+            "name": "17 Дорожка 17.mp3",
+            "size": 1546724
+          },
+          {
+            "name": "18 Дорожка 18.mp3",
+            "size": 6661280
+          },
+          {
+            "name": "19 Дорожка 19.mp3",
+            "size": 5424140
+          },
+          {
+            "name": "20 Дорожка 20.mp3",
+            "size": 3974024
+          },
+          {
+            "name": "21 Дорожка 21.mp3",
+            "size": 2135540
+          },
+          {
+            "name": "22 Дорожка 22.mp3",
+            "size": 9348536
+          },
+          {
+            "name": "23 Дорожка 23.mp3",
+            "size": 3141956
+          },
+          {
+            "name": "24 Дорожка 24.mp3",
+            "size": 5606840
+          },
+          {
+            "name": "25 Дорожка 25.mp3",
+            "size": 6688424
+          },
+          {
+            "name": "26 Дорожка 26.mp3",
+            "size": 2393408
+          },
+          {
+            "name": "27 Дорожка 27.mp3",
+            "size": 8855768
+          }
+        ]
+      },
+      {
+        "name": "CD2",
+        "contents": [
+          {
+            "name": "01 Дорожка 1.mp3",
+            "size": 10355740
+          },
+          {
+            "name": "02 Дорожка 2.mp3",
+            "size": 4925896
+          },
+          {
+            "name": "03 Дорожка 3.mp3",
+            "size": 5865496
+          },
+          {
+            "name": "04 Дорожка 4.mp3",
+            "size": 4446700
+          },
+          {
+            "name": "05 Дорожка 5.mp3",
+            "size": 3638644
+          },
+          {
+            "name": "06 Дорожка 6.mp3",
+            "size": 2979880
+          },
+          {
+            "name": "07 Дорожка 7.mp3",
+            "size": 3462208
+          },
+          {
+            "name": "08 Дорожка 8.mp3",
+            "size": 7967068
+          },
+          {
+            "name": "09 Дорожка 9.mp3",
+            "size": 3628204
+          },
+          {
+            "name": "10 Дорожка 10.mp3",
+            "size": 5728732
+          },
+          {
+            "name": "11 Дорожка 11.mp3",
+            "size": 9948580
+          },
+          {
+            "name": "12 Дорожка 12.mp3",
+            "size": 3779584
+          },
+          {
+            "name": "13 Дорожка 13.mp3",
+            "size": 3304564
+          },
+          {
+            "name": "14 Дорожка 14.mp3",
+            "size": 10145896
+          },
+          {
+            "name": "15 Дорожка 15.mp3",
+            "size": 3069664
+          },
+          {
+            "name": "16 Дорожка 16.mp3",
+            "size": 10247164
+          },
+          {
+            "name": "17 Дорожка 17.mp3",
+            "size": 3370336
+          },
+          {
+            "name": "18 Дорожка 18.mp3",
+            "size": 7718596
+          },
+          {
+            "name": "19 Дорожка 19.mp3",
+            "size": 4503076
+          },
+          {
+            "name": "20 Дорожка 20.mp3",
+            "size": 4425820
+          },
+          {
+            "name": "21 Дорожка 21.mp3",
+            "size": 7988992
+          }
+        ]
+      },
+      {
+        "name": "Буклет",
+        "contents": [
+          {
+            "name": "Буклет (10).jpg",
+            "size": 167108
+          },
+          {
+            "name": "Буклет (11).jpg",
+            "size": 160288
+          },
+          {
+            "name": "Буклет (12).jpg",
+            "size": 142962
+          },
+          {
+            "name": "Буклет (13).jpg",
+            "size": 149676
+          },
+          {
+            "name": "Буклет (14).jpg",
+            "size": 141723
+          },
+          {
+            "name": "Буклет (15).jpg",
+            "size": 172192
+          },
+          {
+            "name": "Буклет (16).jpg",
+            "size": 86479
+          },
+          {
+            "name": "Буклет (2).jpg",
+            "size": 476557
+          },
+          {
+            "name": "Буклет (3).jpg",
+            "size": 511385
+          },
+          {
+            "name": "Буклет (4).jpg",
+            "size": 420090
+          },
+          {
+            "name": "Буклет (5).jpg",
+            "size": 411707
+          },
+          {
+            "name": "Буклет (6).jpg",
+            "size": 425585
+          },
+          {
+            "name": "Буклет (7).jpg",
+            "size": 443206
+          },
+          {
+            "name": "Буклет (8).jpg",
+            "size": 465051
+          },
+          {
+            "name": "Буклет (9).jpg",
+            "size": 376354
+          },
+          {
+            "name": "Буклет.jpg",
+            "size": 323832
+          }
+        ]
+      }
+    ],
+    "creation": "2017-04-13T09:24:00.596Z",
+    "liveness": {
+      "requests": {
+        "2017-04-10": 22
+      },
+      "announces": {}
+    },
+    "title": "Страсти по Матфею",
+    "modification": "2017-04-13T09:24:00.596Z"
+  },
+  {
+    "_id": "F87576FAB108805A72F24FA5979770DF4EE6E0DD",
+    "totalSize": 2000000000,
+    "data": [
+      {
+        "name": "POW.jpg",
+        "size": 7,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E01.avi",
+        "size": 4,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E02.avi",
+        "size": 4,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E03.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E04.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E05.avi",
+        "size": 4,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E06.avi",
+        "size": 4,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E07.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E08.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E09.avi",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E10.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E11.avi",
+        "size": 8,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E12.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E13.avi",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E14.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E15.avi",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E16.avi",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E17.avi",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E18.avi",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E19.avi",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E20.avi",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E21.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E22.avi",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E23.avi",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Pogranicze w ogniu E24.avi",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      }
+    ],
+    "creation": "2017-08-06T05:42:11.415Z",
+    "modification": "2017-11-29T07:00:07.442Z",
+    "liveness": {
+      "requests": {
+        "2017-07-31": 2,
+        "2017-08-14": 1,
+        "2017-09-04": 11,
+        "2017-09-11": 10,
+        "2017-10-02": 5,
+        "2017-11-27": 5
+      },
+      "announces": {
+        "2017-09-04": 1,
+        "2017-09-11": 3
+      }
+    },
+    "title": "Pogranicze w Ogniu"
+  },
+  {
+    "_id": "0DBED19F9DF45C5811C893BDFCB305DC5A7ED354",
+    "totalSize": 348123759,
+    "data": [
+      {
+        "name": "01. Gaiser - Strangers (Original Mix).mp3",
+        "size": 8
+      },
+      {
+        "name": "02. Gaiser - Oozewave (Original Mix).mp3",
+        "size": 7
+      },
+      {
+        "name": "03. Gaiser - Say What (Original Mix).mp3",
+        "size": 8
+      },
+      {
+        "name": "04. Gaiser - Droplets (Original Mix).mp3",
+        "size": 8
+      },
+      {
+        "name": "05. Gaiser - Want Some (Original Mix).mp3",
+        "size": 2
+      },
+      {
+        "name": "06. Gaiser - Reflekts (Original Mix).mp3",
+        "size": 7
+      },
+      {
+        "name": "07. Gaiser - Dirty Tricks (Original Mix).mp3",
+        "size": 6
+      },
+      {
+        "name": "08. Gaiser - Spillage (Original Mix).mp3",
+        "size": 8
+      },
+      {
+        "name": "09. Gaiser - Driftwork (Original Mix).mp3",
+        "size": 9
+      },
+      {
+        "name": "10. Gaiser - Way Out (Original Mix).mp3",
+        "size": 5
+      }
+    ],
+    "creation": "2017-05-31T13:44:45.520Z",
+    "liveness": {
+      "requests": {
+        "2017-05-29": 2,
+        "2017-07-03": 2,
+        "2017-07-31": 30,
+        "2017-08-21": 8,
+        "2017-09-04": 30,
+        "2017-09-11": 18
+      },
+      "announces": {
+      }
+    },
+    "title": "Gaiser (2014) False Light MP3",
+    "modification": "2017-09-13T14:52:16.486Z"
+  },
+  {
+    "_id": "0B4188030FA2AE975F4C2A7F4CAD6B1114B0C472",
+    "totalSize": 0,
+    "data": [
+      {
+        "name": "The.Room.2003.720p.BluRay.x264.YIFY.mp4",
+        "size": 3
+      },
+      {
+        "name": "WWW.YIFY-TORRENTS.COM.jpg",
+        "size": 7
+      }
+    ],
+    "creation": "2017-04-17T05:57:58.470Z",
+    "liveness": {
+      "requests": {
+        "2017-04-17": 3,
+        "2017-05-08": 3,
+        "2017-05-22": 7,
+        "2017-05-29": 1,
+        "2017-06-19": 1,
+        "2017-06-26": 1,
+        "2017-07-03": 4,
+        "2017-07-31": 3,
+        "2017-08-14": 1,
+        "2017-08-21": 1,
+        "2017-09-04": 10,
+        "2017-09-11": 1,
+        "2017-09-18": 3,
+        "2017-09-25": 1,
+        "2017-10-09": 1
+      },
+      "announces": {
+        "2017-09-18": 1
+      }
+    },
+    "title": "The Room (2003)",
+    "modification": "2017-10-14T03:00:28.736Z"
+  },
+  {
+    "_id": "40313938941659D6BB95569DF9E3A81034AB711E",
+    "totalSize": 6,
+    "data": [
+      {
+        "name": "! Chcesz mieć TO szybciej - zapraszamy-KLIK.url",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "! Want YOU more -CLIK.url",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Akwarium czyli samotnosc szpiega E01 [DVBRip.x264-FT][PL][Alusia][FileTracker.pl].mkv",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Akwarium czyli samotnosc szpiega E02 [DVBRip.x264-FT][PL][Alusia][FileTracker.pl].mkv",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Akwarium czyli samotnosc szpiega E03 [DVBRip.x264-FT][PL][Alusia][FileTracker.pl].mkv",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Akwarium czyli samotnosc szpiega E04 [DVBRip.x264-FT][PL][Alusia][FileTracker.pl].mkv",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "LoGo.png",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Uwaga ważne,ZOBACZ NAS!!.jpg",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Zapraszamy-KLIK.url",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      }
+    ],
+    "creation": "2017-07-30T17:18:46.585Z",
+    "modification": "2017-09-29T07:00:50.565Z",
+    "liveness": {
+      "requests": {
+        "2017-07-24": 8,
+        "2017-07-31": 2,
+        "2017-08-14": 1,
+        "2017-08-21": 2,
+        "2017-09-04": 13,
+        "2017-09-11": 4,
+        "2017-09-18": 3,
+        "2017-09-25": 1402
+      },
+      "announces": {
+        "2017-09-25": 103
+      }
+    },
+    "title": "[FileTracker.pl] Akwarium czyli samotność szpiega 1995 [miniserial][DVBRip.x264-FT][PL][Alusia]"
+  },
+  {
+    "_id": "F4FF88A00AD6B54B1A6507E9BF0F10F5482D8F7B",
+    "totalSize": 8,
+    "data": [
+      {
+        "name": "Torrent pobrany z Polskie-Torrenty.com.txt",
+        "size": 4,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Więcej Polskich Torrentów.url",
+        "size": 7,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 1, Czat.mp4",
+        "size": 3,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 10, Animalia.mp4",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 11, Tata.mp4",
+        "size": 7,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 12, Kokaina.mp4",
+        "size": 3,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 13, Paradoks.mp4",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 2, Szpion.mp4",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 3, Wolność.mp4",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 4, Tajemnica spowiedzi.mp4",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 5, Miłość.mp4",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 6, Lęk.mp4",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 7, Paluch.mp4",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 8, Profil.mp4",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "odc. 9, Oaza spokoju.mp4",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      }
+    ],
+    "creation": "2017-07-07T19:53:35.569Z",
+    "liveness": {
+      "requests": {
+        "2017-07-03": 65,
+        "2017-07-10": 28,
+        "2017-07-31": 325,
+        "2017-08-07": 13,
+        "2017-09-04": 10,
+        "2017-09-11": 5
+      },
+      "announces": {
+        "2017-07-03": 10,
+        "2017-07-10": 6,
+        "2017-07-31": 42,
+        "2017-08-07": 2
+      }
+    },
+    "title": "Paradoks (2012) [Komplet] [WEBRip] [x264-Albańczyk] [PL] [Ekipa P-T]",
+    "modification": "2017-09-15T00:01:33.423Z"
+  },
+  {
+    "_id": "88F540A711F44791B5DA74E9AC4C3794C58A82C4",
+    "totalSize": 2,
+    "data": [
+      {
+        "name": "Borat.2006.1080p.BrRip.x264.YIFY.mp4",
+        "size": 3,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Borat.2006.1080p.BrRip.x264.YIFY.srt",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "WWW.YIFY-TORRENTS.COM.jpg",
+        "size": 7,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      }
+    ],
+    "creation": "2017-07-25T16:15:56.633Z",
+    "modification": "2017-11-29T09:00:18.285Z",
+    "liveness": {
+      "requests": {
+        "2017-07-24": 4,
+        "2017-07-31": 19,
+        "2017-08-07": 1,
+        "2017-08-14": 60,
+        "2017-08-21": 19,
+        "2017-08-28": 2,
+        "2017-09-04": 4,
+        "2017-09-11": 3,
+        "2017-09-18": 24,
+        "2017-09-25": 3,
+        "2017-10-02": 12,
+        "2017-10-09": 3,
+        "2017-11-27": 1
+      },
+      "announces": {
+        "2017-08-14": 28,
+        "2017-10-02": 1
+      }
+    },
+    "title": "Borat (2006) [1080p]"
+  },
+  {
+    "_id": "2C7164F32F151DA553F904E9EBEDCE8249B8FAF1",
+    "totalSize": 5,
+    "data": [
+      {
+        "name": "Torrent Downloaded From Katcr.co - Kickasstorrents.txt",
+        "size": 2
+      },
+      {
+        "name": "01. Getting Started",
+        "contents": [
+          {
+            "name": "Lecture 1 - Course Introduction.mp4",
+            "size": 0
+          }
+        ]
+      },
+      {
+        "name": "02. Properly Configure Traktor Pro 2",
+        "contents": [
+          {
+            "name": "Lecture 2 - Soundcard and MIDI Controller Configuration.mp4",
+            "size": 0
+          },
+          {
+            "name": "Lecture 3 - Browser and Layout Configuration.mp4",
+            "size": 2
+          },
+          {
+            "name": "Lecture 4 - Importing and Analyzing your Tracks.mp4",
+            "size": 0
+          },
+          {
+            "name": "Lecture 5 - Create and Save Playlists.mp4",
+            "size": 2
+          }
+        ]
+      },
+      {
+        "name": "03. Basic Techniques",
+        "contents": [
+          {
+            "name": "Lecture 10 - Recording Your Mix.mp4",
+            "size": 0
+          },
+          {
+            "name": "Lecture 6 - Create Beatgrids.mp4",
+            "size": 0
+          },
+          {
+            "name": "Lecture 7 - Cue Point Basics.mp4",
+            "size": 8
+          },
+          {
+            "name": "Lecture 8 - 3 Ways to Use Sync.mp4",
+            "size": 3
+          },
+          {
+            "name": "Lecture 9 - Gey Loopy with Loops.mp4",
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "04. Advanced Techniques",
+        "contents": [
+          {
+            "name": "Lecture 11 - Loop Recorder.mp4",
+            "size": 0
+          },
+          {
+            "name": "Lecture 12 - Remix Decks.mp4",
+            "size": 3
+          },
+          {
+            "name": "Lecture 13 - How to Map Shift Buttons with MIDI Modifiers.mp4",
+            "size": 3
+          },
+          {
+            "name": "Lecture 14 - Cruise Mode.mp4",
+            "size": 2
+          },
+          {
+            "name": "Lecture 15 - Instant Doubles.mp4",
+            "size": 2
+          }
+        ]
+      },
+      {
+        "name": "05. Extras",
+        "contents": [
+          {
+            "name": "Lecture 17 - Add Live Inputs to Your DJ Mixes.mp4",
+            "size": 0
+          },
+          {
+            "name": "Lecture 17.1 - Turntable Brake Effect.mp4",
+            "size": 5
+          },
+          {
+            "name": "Lecture 18 - EQ Types.mp4",
+            "size": 5
+          },
+          {
+            "name": "Lecture 19 - How to Beatgrid Tracks with Intros.mp4",
+            "size": 9
+          }
+        ]
+      },
+      {
+        "name": "06. Advanced MIDI Mapping",
+        "contents": [
+          {
+            "name": "Lecture 20 - Tips for Mapping Multiple MIDI Controllers.mp4",
+            "size": 8
+          },
+          {
+            "name": "Lecture 21 - MIDI Command Interaction Mode.mp4",
+            "size": 5
+          },
+          {
+            "name": "Lecture 22 - MIDI Macros.mp4",
+            "size": 4
+          },
+          {
+            "name": "Lecture 23 - Mapping LEDs on Your MIDI Controller.mp4",
+            "size": 5
+          },
+          {
+            "name": "Lecture 24 - Create Effect Presets with MIDI Mapping.mp4",
+            "size": 9
+          }
+        ]
+      }
+    ],
+    "creation": "2017-05-17T12:41:10.984Z",
+    "liveness": {
+      "requests": {
+        "2017-05-15": 54,
+        "2017-05-22": 73,
+        "2017-05-29": 3,
+        "2017-06-05": 29,
+        "2017-06-19": 1,
+        "2017-07-03": 2,
+        "2017-07-10": 1,
+        "2017-07-31": 1,
+        "2017-08-21": 8,
+        "2017-08-28": 6,
+        "2017-09-04": 4,
+        "2017-09-11": 11,
+        "2017-09-18": 2,
+        "2017-09-25": 6,
+        "2017-10-02": 4,
+        "2017-10-09": 4
+      },
+      "announces": {
+        "2017-05-15": 9,
+        "2017-05-22": 19,
+        "2017-10-09": 1
+      }
+    },
+    "title": "udemy - How to DJ With Traktor Pro 2",
+    "modification": "2017-10-14T02:00:57.763Z"
+  },
+  {
+    "_id": "B9D79B15E6A632BDB4D6662472623833F61BB2B0",
+    "totalSize": 5,
+    "data": [
+      {
+        "name": "! Chcesz mieć TO szybciej - zapraszamy-KLIK.url",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "! Want YOU more -CLIK.url",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "1.jpg",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "81356-1.jpg",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "LoGo.png",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Uwaga ważne,ZOBACZ NAS!!.jpg",
+        "size": 9,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E01.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 5,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E02.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 3,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E03.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 2,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E04.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E05.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E06.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E07.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 5,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E08.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 7,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E09.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 8,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E10.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E11.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 5,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E12.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 6,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E13.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 8,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E14.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 8,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "ZMIENNICY.E15.1986.PL.720p.HDTV.X264-DRP.mkv",
+        "size": 0,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      },
+      {
+        "name": "Zapraszamy-KLIK.url",
+        "size": 1,
+        "className": "com.realizationtime.btdogg.parsing.ParsingResult.TorrentFile"
+      }
+    ],
+    "creation": "2017-08-22T18:20:42.473Z",
+    "modification": "2017-09-27T00:00:53.128Z",
+    "liveness": {
+      "requests": {
+        "2017-08-21": 4,
+        "2017-09-11": 10,
+        "2017-09-25": 1
+      },
+      "announces": {
+      }
+    },
+    "title": "[FileTracker.pl]  ZMIENNICY[komplet][1986][PL]720p.HDTV.X264-DRP[Alusia]"
+  },
+  {
+    "_id": "F5D5EC6D400CF7C44A4025FC65F9CEAEBFC7BF1C",
+    "totalSize": 4,
+    "data": [
+      {
+        "name": "Lock,.Stock.and.Two.Smoking.Barrels.1998.1080p.BluRay.x264.YIFY.mp4",
+        "size": 0
+      },
+      {
+        "name": "Lock,.Stock.and.Two.Smoking.Barrels.1998.1080p.BluRay.x264.YIFY.srt",
+        "size": 7
+      },
+      {
+        "name": "WWW.YIFY-TORRENTS.COM.jpg",
+        "size": 7
+      }
+    ],
+    "creation": "2017-04-13T10:43:56.718Z",
+    "liveness": {
+      "requests": {
+        "2017-04-10": 32,
+        "2017-04-17": 4,
+        "2017-05-22": 1,
+        "2017-05-29": 3,
+        "2017-06-19": 4,
+        "2017-06-26": 6,
+        "2017-07-03": 10,
+        "2017-07-10": 1,
+        "2017-07-17": 1,
+        "2017-07-24": 1,
+        "2017-07-31": 3,
+        "2017-08-07": 1,
+        "2017-08-14": 2,
+        "2017-08-21": 7,
+        "2017-08-28": 3,
+        "2017-09-04": 4,
+        "2017-09-11": 2,
+        "2017-09-25": 4,
+        "2017-10-02": 3
+      },
+      "announces": {
+        "2017-04-10": 1,
+        "2017-05-22": 1,
+        "2017-06-05": 1,
+        "2017-06-19": 1,
+        "2017-07-31": 1,
+        "2017-08-21": 1
+      }
+    },
+    "title": "Lock, Stock and Two Smoking Barrels (1998) [1080p]",
+    "modification": "2017-10-04T06:00:48.211Z"
+  }
+]
