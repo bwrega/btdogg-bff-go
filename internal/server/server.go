@@ -3,6 +3,7 @@ package server
 import (
 	"fmt"
 	"github.com/bwrega/btdogg-bff-go/internal/details"
+	"github.com/bwrega/btdogg-bff-go/internal/search"
 )
 import "net/http"
 import "github.com/gin-gonic/gin"
@@ -10,6 +11,7 @@ import "github.com/gin-gonic/gin"
 type HttpServer struct {
 	PortNumber int
 	DetailsService details.TorrentDetailsService
+	SearchService search.TorrentSearchService
 }
 
 func (s HttpServer) Start() {
@@ -17,6 +19,7 @@ func (s HttpServer) Start() {
 	router := gin.Default()
 	v1 := router.Group("/api/v1")
 	v1.GET("/details/:torrentHash", s.getDetails)
+	v1.GET("/search", s.search)
 	router.Run(fmt.Sprint(":", s.PortNumber))
 }
 
@@ -28,4 +31,9 @@ func (s HttpServer) getDetails(c *gin.Context) {
 	} else {
 		c.JSON(http.StatusOK, torrentDetails)
 	}
+}
+
+func (s HttpServer) search(c *gin.Context) {
+	query := c.DefaultQuery("q", "")
+	c.JSON(http.StatusOK, s.SearchService.Search(query))
 }
